@@ -1,0 +1,1 @@
+FROM  appleboy/php5.6-docker
